@@ -1,0 +1,125 @@
+{
+ "address": "1MonajQ78tEYHcPU3qd277rf5ZN7izzuVL",
+ "address_index": 5814481,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "",
+ "files": {
+  "dbschema.json": {
+   "sha512": "b34b8e48686dae381122c991f7997ae4e06b1bc8981b75bb614ada801b84c631",
+   "size": 887
+  },
+  "index.html": {
+   "sha512": "cfa246697f0313f3749a5ef56b0be9a6f8d12e60d4bf793e65cc04fa5be9461b",
+   "size": 856
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "76a24d167e8a4c45f7d1b315efe31e4b4ccb19efef011c080994c94045ff4c93",
+   "size": 5088
+  },
+  "svelte-app/.vscode/extensions.json": {
+   "sha512": "8c707177855fb0e4a432e3802245a5a0c1eabc91305755473659c90a3f6e1c46",
+   "size": 50
+  },
+  "svelte-app/README.md": {
+   "sha512": "e969b342ebb1fb4fdf191cbc751d02bed70f48bad2bd68962d20d27748d1ef84",
+   "size": 2573
+  },
+  "svelte-app/package.json": {
+   "sha512": "bb8ffd5eb854c0f173fa6a15eb0190dfe6dd980e239dea20164aa7443e048527",
+   "size": 703
+  },
+  "svelte-app/pnpm-lock.yaml": {
+   "sha512": "07cf16c8bd7b288de823196529b31fcd71b271faf6a6cece8ed72703634c3756",
+   "size": 36070
+  },
+  "svelte-app/public/build/bundle.css": {
+   "sha512": "8d8f2c01d00842e7c327f40232344c032f43bd4b568883d6eee88ef60a19bd40",
+   "size": 730
+  },
+  "svelte-app/public/build/bundle.css.map": {
+   "sha512": "b5d05bb5c27b47322ac9e8c0a92d5b8130cf10d064c0fc390341405782b5d0b6",
+   "size": 4556
+  },
+  "svelte-app/public/build/bundle.js": {
+   "sha512": "60de35b3fe7dae4f0483d9c0323febf144c35900a9b115b4a067cb83ff6713f9",
+   "size": 61376
+  },
+  "svelte-app/public/build/bundle.js.map": {
+   "sha512": "85a536603c5a879ea5c3d78d671c42aab5c19b3993f0cbacfb67c63b2c10a236",
+   "size": 87373
+  },
+  "svelte-app/public/favicon.png": {
+   "sha512": "775cb9622aaa46405be3b3e44090101647e95dba6d3142f93ff7518c40cf2633",
+   "size": 3127
+  },
+  "svelte-app/public/global.css": {
+   "sha512": "fac82659b86b9126ec61d209dd014267e6557448a39a3917b5900ec0fb72b4fa",
+   "size": 890
+  },
+  "svelte-app/public/index.html": {
+   "sha512": "9b0204f166afc15975040d30dd0466fa10210fefc17c643865c45100f93846f4",
+   "size": 393
+  },
+  "svelte-app/rollup.config.js": {
+   "sha512": "40e2264efd5b6afdab2306b0b480fc19caa6e6cc91f9dd837572b7ca4cc897c6",
+   "size": 1972
+  },
+  "svelte-app/src/App.svelte": {
+   "sha512": "1f541097c12c84bca6ff6e2b005105a385a3a9a818c9936771269dd8cd7e33c5",
+   "size": 2185
+  },
+  "svelte-app/src/AppFrame.ts": {
+   "sha512": "eb9b958e2d6c78a13ea6f74fda1b92359afff01a8cc71f8278c61d25f3499ede",
+   "size": 2802
+  },
+  "svelte-app/src/SiteInfo.svelte": {
+   "sha512": "f19c7b8603135c90f6d43aa0a6630f224c7e47219626785314deb4916d9a5761",
+   "size": 665
+  },
+  "svelte-app/src/Table.svelte": {
+   "sha512": "dd3a4e7c88c3ca5cf0549dcbd850ec9f45fa616c56c6c9c2dd09e238b4a71126",
+   "size": 403
+  },
+  "svelte-app/src/Time.svelte": {
+   "sha512": "6fb06455f8e6a295997e898b9ec9cc20c0a609312def1cb728360a040b2070b3",
+   "size": 441
+  },
+  "svelte-app/src/ZeroFrame.ts": {
+   "sha512": "a850313317b33e34a38bbc814b632acdd0479d5e89e570d8b863bae91b1aee3a",
+   "size": 5110
+  },
+  "svelte-app/src/format.ts": {
+   "sha512": "5919452bbec069c2ac5aa023e2030235e72f3a59914f1c9b37fab4d9c974b3d6",
+   "size": 246
+  },
+  "svelte-app/src/main.ts": {
+   "sha512": "f5a67ff72204cc74ce33813c62a9cc1b16044c14369d430706a82ceb597c544a",
+   "size": 322
+  },
+  "svelte-app/src/store.ts": {
+   "sha512": "d784da9211e047ca809e7b2224f612a2abd8fe1734f9db7a49777256f0bf395a",
+   "size": 73
+  },
+  "svelte-app/tsconfig.json": {
+   "sha512": "84a71d24f84e4510a73da31ee280ca3f32648d4037dfd4af75b857cefdd43122",
+   "size": 139
+  }
+ },
+ "ignore": "data/.*|svelte-app/node_modules/.*|.git/.*",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "modified": 1598739909,
+ "postmessage_nonce_security": true,
+ "signers_sign": "HIus0TM4BVo+bSj/Lo0i3ykFnwwdAbHTFTCpK7B3Sxa0evGnSrO01EAS0ih9iwGl/w68aIbIzH4FA59AIh7fpC0=",
+ "signs": {"1MonajQ78tEYHcPU3qd277rf5ZN7izzuVL": "HN+D8ld9EC5VdC+71jtLCcVQ2YJGG18FnS68ZwOHaCqzFyWqeAbYYwTyoEpkN7oj0C0gZ5xLZIeqhCQ1n/4pm8k="},
+ "signs_required": 1,
+ "title": "ZeroNet site built with Svelte and Typescript",
+ "zeronet_version": "0.7.1"
+}
