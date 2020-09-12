@@ -6,6 +6,10 @@
  "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
  "description": "",
  "files": {
+  "README.md": {
+   "sha512": "92c79376d86a0d4dd474ce8e180b53ffe7c20c4cea623ec22f70a8c7afed8c5a",
+   "size": 703
+  },
   "dbschema.json": {
    "sha512": "b34b8e48686dae381122c991f7997ae4e06b1bc8981b75bb614ada801b84c631",
    "size": 887
@@ -35,20 +39,20 @@
    "size": 36070
   },
   "svelte-app/public/build/bundle.css": {
-   "sha512": "8d8f2c01d00842e7c327f40232344c032f43bd4b568883d6eee88ef60a19bd40",
-   "size": 730
+   "sha512": "0d3f720258f62b156611276cdb936452f3999caa4a7bd6c6e37faf79e361e00d",
+   "size": 806
   },
   "svelte-app/public/build/bundle.css.map": {
-   "sha512": "b5d05bb5c27b47322ac9e8c0a92d5b8130cf10d064c0fc390341405782b5d0b6",
-   "size": 4556
+   "sha512": "3e1b9b3177c1f5644aa125ee1049cf5996cd66210bc4acc329f44d191b46a474",
+   "size": 4769
   },
   "svelte-app/public/build/bundle.js": {
-   "sha512": "60de35b3fe7dae4f0483d9c0323febf144c35900a9b115b4a067cb83ff6713f9",
-   "size": 61376
+   "sha512": "e2a05f551412401b17f88b5acfdf602ba17c2d9a3929408bc462032ffb684940",
+   "size": 61399
   },
   "svelte-app/public/build/bundle.js.map": {
-   "sha512": "85a536603c5a879ea5c3d78d671c42aab5c19b3993f0cbacfb67c63b2c10a236",
-   "size": 87373
+   "sha512": "4cc46b8c9f763ed095a7ac8557bb5a2590f78571faa22928cbcd9b72f5a30599",
+   "size": 87503
   },
   "svelte-app/public/favicon.png": {
    "sha512": "775cb9622aaa46405be3b3e44090101647e95dba6d3142f93ff7518c40cf2633",
@@ -67,8 +71,8 @@
    "size": 1972
   },
   "svelte-app/src/App.svelte": {
-   "sha512": "1f541097c12c84bca6ff6e2b005105a385a3a9a818c9936771269dd8cd7e33c5",
-   "size": 2185
+   "sha512": "598be099bfb9367b4ea5b078f2c0925799da3ee167deafad3e654235b3a553a9",
+   "size": 2302
   },
   "svelte-app/src/AppFrame.ts": {
    "sha512": "eb9b958e2d6c78a13ea6f74fda1b92359afff01a8cc71f8278c61d25f3499ede",
@@ -115,10 +119,10 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1598739909,
+ "modified": 1599886227,
  "postmessage_nonce_security": true,
  "signers_sign": "HIus0TM4BVo+bSj/Lo0i3ykFnwwdAbHTFTCpK7B3Sxa0evGnSrO01EAS0ih9iwGl/w68aIbIzH4FA59AIh7fpC0=",
- "signs": {"1MonajQ78tEYHcPU3qd277rf5ZN7izzuVL": "HN+D8ld9EC5VdC+71jtLCcVQ2YJGG18FnS68ZwOHaCqzFyWqeAbYYwTyoEpkN7oj0C0gZ5xLZIeqhCQ1n/4pm8k="},
+ "signs": {"1MonajQ78tEYHcPU3qd277rf5ZN7izzuVL": "G+cc6r5HVO+bVGZe8utWq8sMmZMlfIRDO6oZ8rGnJyFGYuzAPkJtvpAgWz7pSs2/8802N0GqReiX/m8EdQgXnhk="},
  "signs_required": 1,
  "title": "ZeroNet site built with Svelte and Typescript",
  "zeronet_version": "0.7.1"
