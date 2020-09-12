@@ -46,7 +46,7 @@
 	<li>Welcome to ZeroChat!</li>
 </ul>
 <footer>
-	<p>Visit the <a href="/todo">Git Center</a> to study the source code.</p>
+	<p>Visit the <a href="/1MonajQ78tEYHcPU3qd277rf5ZN7izzuVL">Git Center</a> to study the source code.</p>
 	<p>Visit the <a href="/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial+new">ZeroBlog</a> to learn how to build ZeroNet webapps.</p>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </footer>
