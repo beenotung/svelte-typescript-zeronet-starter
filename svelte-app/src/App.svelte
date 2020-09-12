@@ -88,6 +88,11 @@
 	:global(.time:after) {
 		content: ": "
 	}
+	.message {
+		display: inline-block;
+		padding-top: 0.2em;
+		margin-bottom: 0.75em;
+	}
 	@media (max-width: 640px) {
 		.message {
 			display: block;
